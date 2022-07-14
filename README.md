@@ -11,3 +11,5 @@ I'm cuurently student at Dharmsinh Desai University,Nadiad,Gujarat,India.
 I'm interested in Web designing and development.I like to do competitve coding a lot.
 
 ![Jay's github stats](https://github-readme-stats.vercel.app/api?username=jayshah2002)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002)](https://github.com/jayshah2002/github-readme-stats)
