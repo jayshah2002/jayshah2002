@@ -3,9 +3,9 @@
 </div>  
   
 
-# **<div align="center">Hi ,  Myself Jay Shah
+# <div align="center">Hi ,  Myself Jay Shah
 An Uprising Full Stack Developer
-</div>**  
+</div> 
   
 
 - 🔭 I’m currently working on RTO Managment  
