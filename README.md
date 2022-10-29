@@ -100,7 +100,7 @@ An Uprising Full Stack Developer
 
 <br/>  
 
-[![GitHub Streak]<div align="center">(https://streak-stats.demolab.com/?user=jayshah2002)](https://git.io/streak-stats)</div>
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=jayshah2002)](https://git.io/streak-stats)</div>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
