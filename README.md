@@ -65,10 +65,6 @@ An Uprising Full Stack Developer
 
 
 
-### DevOps  
-<div align="center">  
-  
-</div>
 
 </td></tr></table>  
 
@@ -94,6 +90,8 @@ An Uprising Full Stack Developer
 
 <br/>  
 
+## Most Languages Used
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact" align="center"/></div>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayshah2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
