@@ -99,8 +99,8 @@ An Uprising Full Stack Developer
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayshah2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=jayshah2002)](https://git.io/streak-stats)</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=jayshah2002" align="center"/></div>
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
