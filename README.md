@@ -3,15 +3,17 @@
 </div>  
   
 
-# <div align="center">Hi ,  Myself Jay Shah
-An Uprising Full Stack Developer
+# <div align="center">Hey there,  myself Jay Shah
+An Uprising Software Developer
 </div> 
   
 
-- 🔭 I’m currently working on RTO Managment  
+- 🔭 I’m currently working RestAPI's using ASP.NET core 
   
 
-- 🌱 I’m currently learning Node.JS  
+- 🔎 Looking for internship in Developement Area (i.e. Web Dev.)
+
+- 👨‍👦‍👦 I enjoy working with others doing work in team.
   
 
 - 👨‍💻 All of my projects are available at: https://github.com/jayshah2002  
@@ -22,11 +24,13 @@ An Uprising Full Stack Developer
 
 <br/>  
 
+<div>
+https://github-readme-activity-graph.cyclic.app/graph?username=jayshah2002&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
+  
 
 ### Frontend  
 <div align="center">  
