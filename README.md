@@ -24,8 +24,8 @@ An Uprising Software Developer
 
 <br/>  
 
-<div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jayshah2002&theme=github)]
+<div align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jayshah2002&theme=github"/>
 </div>
 
 ## My Skill Set  
