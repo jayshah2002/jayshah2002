@@ -45,6 +45,7 @@ An Uprising Software Developer
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/C#-GD8B00?style=for-the-badge&logo=java&logoColor=white">
   </div>
   
   ### Frameworks
@@ -54,6 +55,10 @@ An Uprising Software Developer
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/NodeJS-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/ExpressJS-ED8C00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET-ED8H00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Material UI-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </div>
 
 
@@ -62,6 +67,7 @@ An Uprising Software Developer
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-G80000?style=for-the-badge&logo=Oracle&logoColor=white">
   </div>
   
   ### Version Control 
@@ -74,25 +80,11 @@ An Uprising Software Developer
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    
   </div>
 
 
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-
-
-<br/>  
 
 
 ## Connect with me  
@@ -115,9 +107,10 @@ An Uprising Software Developer
 <br/>  
 
 ## Most Languages Used
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact" align="center"/></div>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact&hide_border=true&theme=github_dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact" align="center"/></div> -->
 
-## Github Stats  
+## Github Status  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jayshah2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
