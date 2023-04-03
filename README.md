@@ -55,10 +55,10 @@ An Uprising Software Developer
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/NodeJS-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/NodeJS-AD8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/ExpressJS-ED8C00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/ASP.NET-ED8H00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Material UI-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Material UI-KD8B00?style=for-the-badge&logo=java&logoColor=white">
   </div>
 
 
@@ -107,7 +107,7 @@ An Uprising Software Developer
 <br/>  
 
 ## Most Languages Used
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact&hide_border=true&theme=github_dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact&hide_border=true&theme=github_dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" align="center" height="180px">
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayshah2002&layout=compact" align="center"/></div> -->
 
 ## Github Status  
@@ -124,13 +124,13 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=uqm9ojkfzgml1zmzpv69hxhik&cover_image=true&theme=default" /></div>  
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=uqm9ojkfzgml1zmzpv69hxhik&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jayshah2002&&style=flat-square" align="center" />
-</div>  
+</div>   -->
   
 
 <br/>  
